@@ -1,4 +1,5 @@
-<b>P+.exe</b>
+P+.exe
+~~~~~~
 
 Copyright (C) 2013-2018 Ing. Buero Riesberg - All Rights Reserved
 The P+ kernal file (P+.exe) is developed under closed source licence.
@@ -13,6 +14,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 Written by Andre Riesberg <a href=\"http://www.riesberg-net.de\">www.riesberg-net.de</a>";
 
 All other files
+~~~~~~~~~~~~~~~
 
 MIT License
 
