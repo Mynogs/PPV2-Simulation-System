@@ -13,8 +13,8 @@ Download the zip archive and unpack it. In the archive has the copyright notice 
 P+ is stickware, so there is no install process and no installer. Simply unpack the nested archive in a folder on your computer disk or on a USB stick. Be sure you have read and write permission for this folder. 
 
 ### Install blocks
-1. To install a block library, download the repository as zip file.
-2. Unpack the zip file.
-3. If there is a ´.bmp´ file copy the file to the Library folder in the P+ program folder.
-4. Copy the folder to the Library folder
+1. To install a block library, download the repository as zip file
+2. Unpack the zip file
+3. If there are a `.bmp` file copy the file to the Library folder in the P+ program folder
+4. Copy the folder to the library folder
 
