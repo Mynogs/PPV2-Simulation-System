@@ -1,5 +1,5 @@
 # PPV2-Simulation-System
-This is the pre assembled image of the [P+ simulation system](https://www.elektronik-kompass.de/elektronikloesungen/pplus). 
+This is the pre assembled image of the [P+ simulation system](https://www.elektronik-kompass.de/elektronikloesungen/pplus) (german). 
 The image has only the basic block libraries and functionality. 
 
 The development of P+ ist spread over different Github repositories. All this repositories start with **PPV2-**.
