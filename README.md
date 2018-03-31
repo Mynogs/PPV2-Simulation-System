@@ -56,9 +56,11 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 [PPV2-SubSystems](https://github.com/Mynogs/PPV2-SubSystems)
 
 ## Additonal block
-[PPV2-Tinkerforge](https://github.com/Mynogs/PPV2-Tinkerforge)
-
 [PPV2-ESP8266](https://github.com/Mynogs/PPV2-ESP8266)
+
+[PPV2-Singnal-Attributes](https://github.com/Mynogs/PPV2-Singnal-Attributes)
+
+[PPV2-Tinkerforge](https://github.com/Mynogs/PPV2-Tinkerforge)
 
 ## Contact
 ib.riesberg.contact@gmail.com
