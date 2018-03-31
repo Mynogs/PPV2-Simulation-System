@@ -35,9 +35,6 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 
 [PPV2-Loeve](https://github.com/Mynogs/PPV2-Loeve)
 
-##Contact
-ib.riesberg.contact@gmail.com
-
 [PPV2-Logic](https://github.com/Mynogs/PPV2-Logic)
 
 [PPV2-Lookup-Tables](https://github.com/Mynogs/PPV2-Lookup-Tables)
@@ -61,5 +58,7 @@ ib.riesberg.contact@gmail.com
 ## Additonal block
 [PPV2-Tinkerforge](https://github.com/Mynogs/PPV2-Tinkerforge)
 
+##Contact
+ib.riesberg.contact@gmail.com
 
 
