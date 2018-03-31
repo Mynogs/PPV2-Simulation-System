@@ -18,3 +18,28 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 3. If there are a `.bmp` file copy the file to the Library folder in the P+ program folder
 4. Copy the folder to the library folder
 
+## Standard blocks
+[PPV2-Bitwise](https://github.com/Mynogs/PPV2-Bitwise)
+[PPV2-Bus](https://github.com/Mynogs/PPV2-Bus)
+[PPV2-Continuous](https://github.com/Mynogs/PPV2-Continuous)
+[PPV2-Datatype-Conversions](https://github.com/Mynogs/PPV2-Datatype-Conversions)
+[PPV2-Discontinuities](https://github.com/Mynogs/PPV2-Discontinuities)
+[PPV2-Discrete](https://github.com/Mynogs/PPV2-Discrete)
+[PPV2-Documentation](https://github.com/Mynogs/PPV2-Documentation)
+[PPV2-Loeve](https://github.com/Mynogs/PPV2-Loeve)
+[PPV2-Logic](https://github.com/Mynogs/PPV2-Logic)
+[PPV2-Lookup-Tables](https://github.com/Mynogs/PPV2-Lookup-Tables)
+[PPV2-Math-Operations](https://github.com/Mynogs/PPV2-Math-Operations)
+[PPV2-Model-Verification](https://github.com/Mynogs/PPV2-Model-Verification)
+[PPV2-Select](https://github.com/Mynogs/PPV2-Select)
+[PPV2-Signal-Operations](https://github.com/Mynogs/PPV2-Signal-Operations)
+[PPV2-Signal-Routing](https://github.com/Mynogs/PPV2-Signal-Routing)
+[PPV2-Sinks](https://github.com/Mynogs/PPV2-Sinks)
+[PPV2-Sources](https://github.com/Mynogs/PPV2-Sources)
+[PPV2-SubSystems](https://github.com/Mynogs/PPV2-SubSystems)
+
+## Additonal block
+[PPV2-Tinkerforge](https://github.com/Mynogs/PPV2-Tinkerforge)
+
+
+
