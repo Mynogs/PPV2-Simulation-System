@@ -64,6 +64,8 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 
 [PPV2-Tinkerforge](https://github.com/Mynogs/PPV2-Tinkerforge)
 
+[PPV2-IFTTT](https://github.com/Mynogs/PPV2-IFTTT)
+
 ## Contact
 ib.riesberg.contact@gmail.com
 
