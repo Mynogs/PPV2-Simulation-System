@@ -70,6 +70,9 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 
 [PPV2-User Defined Functions](https://github.com/Mynogs/PPV2-User-Defined-Functions)
 
+[PPV2-Timer](https://github.com/Mynogs/PPV2-Timer)
+
+
 ## Contact
 ib.riesberg.contact@gmail.com
 
