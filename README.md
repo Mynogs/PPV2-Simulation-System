@@ -66,6 +66,8 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 
 [PPV2-IFTTT](https://github.com/Mynogs/PPV2-IFTTT)
 
+[PPV2-Filter](https://github.com/Mynogs/PPV2-Filter)
+
 ## Contact
 ib.riesberg.contact@gmail.com
 
