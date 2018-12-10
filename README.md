@@ -15,7 +15,7 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 ### Install blocks
 1. To install a block library, download the repository as zip file
 2. Unpack the zip file
-3. If there are a `.bmp` file copy the file to the Library folder in the P+ program folder
+3. If there are a `.bmp` file copy the file to the Library folder in the p+ program folder
 4. Copy the folder to the library folder
 
 ## Standard blocks
