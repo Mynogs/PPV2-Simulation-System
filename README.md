@@ -10,7 +10,7 @@ There are also injector scripts (to upload a simulation models to different hard
 
 ### Install
 Download the latest zip archive and unpack it. In the archive has the copyright notice and an other zip archive. 
-P+ is stickware, so there is no install process and no installer. Simply unpack the nested archive in a folder on your computer disk or on a USB stick. Be sure you have read and write permission for this folder. 
+p+ is stickware, so there is no install process and no installer. Simply unpack the nested archive in a folder on your computer disk or on a USB stick. Be sure you have read and write permission for this folder. 
 
 ### Install blocks
 1. To install a block library, download the repository as zip file
@@ -72,8 +72,8 @@ P+ is stickware, so there is no install process and no installer. Simply unpack 
 
 [PPV2-Timer](https://github.com/Mynogs/PPV2-Timer)
 
-##
-[PPV2-Neuronal]https://github.com/Vermalledeit/PPV2-Neuronal
+## Contributor
+[PPV2-Neuronal](https://github.com/Vermalledeit/PPV2-Neuronal)
 
 ## Contact
 ib.riesberg.contact@gmail.com
