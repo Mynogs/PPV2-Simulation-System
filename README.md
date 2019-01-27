@@ -15,7 +15,9 @@ It has features that are otherwise known only from the commercial system:
 * Different use level, all free
 * Powerfull wizards 
 
-For more information please visit my homepage, thehome of p+: [Ing. Büro Riesberg](http://riesberg-net.de).
+For more information please visit my homepage, the home of p+: [Ing. Büro Riesberg](http://riesberg-net.de).
+
+![p+](http://riesberg-net.de/fouriersynthese?raw=true "Title")
 
 
 # PPV2-Simulation-System pre assembled images
