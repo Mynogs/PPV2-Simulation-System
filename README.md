@@ -1,6 +1,6 @@
 # PPV2-Simulation-System
 
-p+ is a free grafical simulation system:
+p+ is a free grafical simulation system.
 
 It has features that are otherwise known only from the commercial system:
 
