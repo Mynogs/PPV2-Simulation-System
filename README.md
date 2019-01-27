@@ -17,7 +17,7 @@ It has features that are otherwise known only from the commercial system:
 
 For more information please visit my homepage, the home of p+: [Ing. Büro Riesberg](http://riesberg-net.de).
 
-![p+](http://riesberg-net.de/fouriersynthese?raw=true "Title")
+![p+](http://riesberg-net.de/fouriersynthese)
 
 
 # PPV2-Simulation-System pre assembled images
