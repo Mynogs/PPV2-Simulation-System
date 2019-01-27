@@ -1,18 +1,39 @@
 # PPV2-Simulation-System
-This is the pre assembled image of the [p+ simulation system](https://www.elektronik-kompass.de/elektronikloesungen/pplus) (german). 
-The image has only the basic block libraries and functionality. 
 
-The development of p+ ist spread over different Github repositories. All this repositories start with **PPV2-**.
+p+ is a free grafical simulation system:
 
-There are block libraries like [PPV2-Tinkerforge](https://github.com/Mynogs/PPV2-Tinkerforge) to add blocks to control [Tinkerforge](https://www.tinkerforge.com/en) modules.
+It has features that are otherwise known only from the commercial system:
+
+* Easy to use
+* A big set of librarys
+* A powerfull editor to create ceneric blocks
+* Unlimited number of blocks
+* Unlimited level of sub-system
+* Enabled, triggert, once, donscale, upsample sub-sustems
+* Code generator for Linux and other system
+* UML project view
+* Different use level, all free
+* Powerfull wizards 
+
+For more information please visit my homepage [Ing. Büro Riesberg](http://riesberg-net.de).
+
+
+# PPV2-Simulation-System pre assembled images
+
+This is the pre assembled images of the p+ simulation system.
+The image contains a good set of basic block libraries and functionality. 
+
+p+ is completly free. Everything without the kernal is open source (MIT licence).
+
+The development of p+ librarys ist spread over different Github repositories. All this repositories start with **PPV2-**.
 
 There are also injector scripts (to upload a simulation models to different hardware platforms), runtime images, scripts and other stuff.
 
 ### Install
-Download the latest zip archive and unpack it. In the archive has the copyright notice and an other zip archive. 
+Download the latest zip archive and unpack it. 
 p+ is stickware, so there is no install process and no installer. Simply unpack the nested archive in a folder on your computer disk or on a USB stick. Be sure you have read and write permission for this folder. 
 
-### Install blocks
+### Install block libray
 1. To install a block library, download the repository as zip file
 2. Unpack the zip file
 3. If there are a `.bmp` file copy the file to the Library folder in the p+ program folder
