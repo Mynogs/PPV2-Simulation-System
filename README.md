@@ -95,6 +95,8 @@ p+ is stickware, so there is no install process and no installer. Simply unpack 
 
 [PPV2-Timer](https://github.com/Mynogs/PPV2-Timer)
 
+[PPV2-Bachmann](https://github.com/Mynogs/BachmannM1)
+
 ## Contributor
 [PPV2-Neuronal](https://github.com/Vermalledeit/PPV2-Neuronal)
 
