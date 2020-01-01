@@ -2,8 +2,6 @@
 
 p+ is a free grafic simulation system.
 
-It has features that are otherwise known only from the commercial system:
-
 * Easy to use
 * A big set of librarys
 * A powerfull editor to create ceneric blocks
